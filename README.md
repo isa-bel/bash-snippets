@@ -1,1 +1,3 @@
-# bash-snippets
+# Bash Snippets
+
+Useful bash scripts
