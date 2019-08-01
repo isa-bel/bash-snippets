@@ -4,7 +4,6 @@
 # * jq https://stedolan.github.io/jq/
 
 # Returns the path where ngrok is running
-# Example: getNgrokPath
 function getNgrokPath {
   echo '🔎 Verify that ngrok is running'
 
